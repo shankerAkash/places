@@ -27,7 +27,7 @@ import okhttp3.OkHttpClient;
 @Service
 public class PlacesAdapter {
 	
-	private static final String GOOGLE_API_KEY = "AIzaSyDqy4AqMtNwmBfP_-pt86YW8Z5E4L0YCTU";
+	private static final String GOOGLE_API_KEY = "";
 	
 	private final HttpClient client = new DefaultHttpClient();
 
